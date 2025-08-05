@@ -1,0 +1,6 @@
+
+{
+  "name": "GY Yatırım Simülasyonu",
+  "description": "A functional, interactive web application that simulates stock trading. Users can 'buy' at a certain price, wait for a randomized price change, and see if they made a profit or a loss.",
+  "requestFramePermissions": []
+}
